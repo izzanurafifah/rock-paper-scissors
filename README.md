@@ -22,5 +22,5 @@ To install the game, you need to have Python 3 installed on your system. Then, y
 <br>`git clone https://github.com/izzanurafifah/rock-paper-scissors.git`
 <br>To play the game, navigate to the project directory and run the play.py file with Python.
 <br>`cd rock-paper-scissors`
-<br>`python main.py`
+<br>`python rock-paper-scissors.py`
 <br>Then, you will see a prompt asking you to choose between rock, paper, or scissors. You can type r, p, or s and press enter.
